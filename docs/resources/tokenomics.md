@@ -1,0 +1,18 @@
+---
+sidebar_position: 1
+---
+
+# GOLD Tokenomics
+
+GOLD is the core currency for the BlockchainRPG in-game economy. Players can use GOLD for numerous reasons, including purchasing items from the shop, crafting their gear/items, and more!
+
+![GOLD Token](./img/GOLD.png)
+
+# Emission
+
+GOLD is generated at a constant rate of 0.00000002 GOLD per second.
+This GOLD generated is stored in a GOLD "pool" and used for Hunt rewards.
+
+Hunting in an area will result in a random portion of this GOLD pool x difficulty.
+
+i.e. A hunt in the Forest (Difficulty 2) will result in twice as much GOLD versus a hunt in the Swamplands (Difficulty 1).
