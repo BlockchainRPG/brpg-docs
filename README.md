@@ -24,18 +24,10 @@ $ yarn build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-### Deployment
+### Contributing
 
-Using SSH:
+Thank you for your contributions! As we only have one developer and our team is small, we need help wherever possible.
 
-```
-$ USE_SSH=true yarn deploy
-```
+Since we are in beta, we will make updates quite frequently and that can put our documentation out of sync. If you notice a discrepency please feel free to create an Issue or a Pull Request to fix them :)
 
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Deployments will happen automatically with cloudflare. If a deployment fails, please try Building locally to see if there are any issues.
