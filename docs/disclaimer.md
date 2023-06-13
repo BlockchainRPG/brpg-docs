@@ -16,6 +16,6 @@ Any and all formulas or innovations presented are subject to change without warn
 
 Please see the below links for additional resources detailing game and company policy:
 
-[Terms and Conditions](https://terms.blochainrpg.io)
+[Terms and Conditions](https://terms.blockchainrpg.io)
 
-[Privacy Policy](https://privacy.blochainrpg.io)
+[Privacy Policy](https://privacy.blockchainrpg.io)
