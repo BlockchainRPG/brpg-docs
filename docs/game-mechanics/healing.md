@@ -29,3 +29,7 @@ Each character can heal for free but with varying cooldowns according to the Cha
 ### HPPOT (Health Potion)
 
 Characters are able to consume HPPOTs to heal 50 health (per HPPOT) without gaining any cooldowns.
+
+### Rabbit Stew
+
+Characters are able to consume a Rabbit Stew to fully recover to max health and reset their cooldown.

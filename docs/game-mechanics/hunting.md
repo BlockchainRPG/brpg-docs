@@ -31,6 +31,6 @@ When you are ready to attempt your first hunt, click on the yellow "Hunt" button
 
 ![Hunt Success Screen](./img/Hunt-Success.webp)
 
-- If the hunt fails, you will die and receive this pop-up. Fortunately for you, death is not permanent in Aurum due to the grace of our deities. It is recommended that you heal prior to hunting again
+- If the hunt fails, your character will die and receive this pop-up. Fortunately for you, death is not permanent in Aurum due to the grace of our deities. Your character will trigger a cooldown based on it's rarity and have 0 HP. It is recommended that you heal prior to hunting again.
 
 ![Death Screen](./img/death.webp)
