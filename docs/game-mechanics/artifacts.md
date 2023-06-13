@@ -6,17 +6,17 @@ Artifacts are NFTs that characters can equip to improve their stats. The Artifac
 
 An Artifact will have the following Attributes:
 
-- Name
-- Set
-- Level
-- Primary Stat
-- Substats
-- Slot
+- [Name](#name)
+- [Set](#set)
+- [Level](#level)
+- [Primary Stat](#primary-stat)
+- [Substats](#substats)
+- [Slot](#slot)
 
 ### Name
 
-The name of an artifact will be '[Set] Artifact'
-For example, "Constitution Artifact"
+The name of an artifact will be '**[Set] Artifact**'
+For example, "**Constitution Artifact**"
 
 ### Set
 
@@ -30,10 +30,13 @@ The Constitution set will give a 15% bonus to HP for every 2 Artifacts equipped.
 
 This represents the level of the artifact. As the level increases, so do the stat bonuses.
 
+See: [Upgrading](#upgrading)
+
 ### Primary Stat
 
 This is the Stat a specific Artifact will primarily increase.
-For Example, an Constitution Artifact with a primary stat of "ATK" will give bonus ATK. Upgrading this artifact will increase the bonus that the artifact gives.
+
+For Example, a Constitution Artifact with a primary stat of "ATK" will give bonus ATK. Upgrading this artifact will increase the bonus that the artifact gives.
 
 ### Substats
 
@@ -42,23 +45,22 @@ TDB
 ### Slot
 
 ![Slot](./img/slots.png)
-This is the slot that an artifact will fit in.
+This is the slot that an artifact will fit in. Each slot will have specific primary stat bonuses that it will give.
 
-Slot 1 Artifacts will only have ATK as their Primary Stat.
-
-Slot 2 - Not available yet
-
-Slot 3 Artifacts will only have HP as their Primary Stat.
-
-Slot 4 - Not available yet
-
-Slot 5 Artifacts will only have DEF as their Primary Stat.
-
-Slot 6 - Not available yet
+| Slot # | Possible Stat Bonus |
+| ------ | ------------------- |
+| 1      | ATK                 |
+| 2      | N/A                 |
+| 3      | DEF                 |
+| 4      | N/A                 |
+| 5      | HP                  |
+| 6      | N/A                 |
 
 ## Upgrading
 
 Artifacts can be upgraded using GOLD with a predetermined success rate. Each successful upgrade will increase the Level of the Artifact by 1. The maximum level of an Artifact is 15.
+
+### Cost
 
 | Levels | Success rate | GOLD cost |
 | ------ | ------------ | --------- |
@@ -76,3 +78,15 @@ Artifacts can be upgraded using GOLD with a predetermined success rate. Each suc
 | +12→13 | 10%          | 1200      |
 | +13→14 | 8%           | 1300      |
 | +14→15 | 5%           | 1400      |
+
+### Primary Stat Changes
+
+Artifacts come in different Rarities and cannot be upgraded to higher rarities.
+
+The following table shows **initial stat bonus / bonus per level / max stat bonus**
+
+| Primary Stat | Common    | Uncommon | Rare | Epic | Legendary |
+| ------------ | --------- | -------- | ---- | ---- | --------- |
+| ATK          | 1/1/15    | -------- | ---- | ---- | --------- |
+| DEF          | 1/1/15    | -------- | ---- | ---- | --------- |
+| HP           | 25/15/235 | -------- | ---- | ---- | --------- |
