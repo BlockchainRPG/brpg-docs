@@ -15,8 +15,9 @@ An Artifact will have the following Attributes:
 
 ### Name
 
-The name of an artifact will be '**[Set] Artifact**'
-For example, "**Constitution Artifact**"
+The name of an artifact will be '**[Rarity] [Set] Artifact**'
+
+For example, "**Common Constitution Artifact**"
 
 ### Set
 
@@ -40,7 +41,7 @@ For Example, a Constitution Artifact with a primary stat of "ATK" will give bonu
 
 ### Substats
 
-TDB
+Substats are additional bonus stats that an Artifact can give.
 
 ### Slot
 
@@ -50,34 +51,34 @@ This is the slot that an artifact will fit in. Each slot will have specific prim
 | Slot # | Possible Stat Bonus |
 | ------ | ------------------- |
 | 1      | ATK                 |
-| 2      | N/A                 |
+| 2      |                     |
 | 3      | DEF                 |
-| 4      | N/A                 |
+| 4      |                     |
 | 5      | HP                  |
-| 6      | N/A                 |
+| 6      |                     |
 
 ## Upgrading
 
-Artifacts can be upgraded using GOLD with a predetermined success rate. Each successful upgrade will increase the Level of the Artifact by 1. The maximum level of an Artifact is 15.
+Artifacts can be upgraded using GOLD with a success rate of **1/{NEXT_LEVEL}**. Each successful upgrade will increase the Level of the Artifact by 1. The maximum level of an Artifact is 15.
 
 ### Cost
 
-| Levels | Success rate | GOLD cost |
-| ------ | ------------ | --------- |
-| +1→2   | 100%         | 100       |
-| +2→3   | 100%         | 200       |
-| +3→4   | 85%          | 300       |
-| +4→5   | 70%          | 400       |
-| +5→6   | 60%          | 500       |
-| +6→7   | 50%          | 600       |
-| +7→8   | 40%          | 700       |
-| +8→9   | 30%          | 800       |
-| +9→10  | 25%          | 900       |
-| +10→11 | 20%          | 1000      |
-| +11→12 | 15%          | 1100      |
-| +12→13 | 10%          | 1200      |
-| +13→14 | 8%           | 1300      |
-| +14→15 | 5%           | 1400      |
+| Levels | Success rate | Common cost (gp) | Uncommon cost (gp) | Rare cost (gp) | Epic cost (gp) | Legendary cost (gp) |
+| ------ | ------------ | ---------------- | ------------------ | -------------- | -------------- | ------------------- |
+| +1→2   | 1/2 = 50%    | 2000             | 3000               | 4000           | 5000           | 6000                |
+| +2→3   | 1/3 = 33.3%  | 3000             | 4000               | 5000           | 6000           | 7000                |
+| +3→4   | 1/4 = 25%    | 4000             | 5000               | 6000           | 7000           | 8000                |
+| +4→5   | 1/5 = 20%    | 5000             | 6000               | 7000           | 8000           | 9000                |
+| +5→6   | 1/6 = 16.7%  | 6000             | 7000               | 8000           | 9000           | 10000               |
+| +6→7   | 1/7 = 14.3%  | 7000             | 8000               | 9000           | 10000          | 11000               |
+| +7→8   | 1/8 = 12.5%  | 8000             | 9000               | 10000          | 11000          | 12000               |
+| +8→9   | 1/9 = 11.1%  | 9000             | 10000              | 11000          | 12000          | 13000               |
+| +9→10  | 1/10 = 10%   | 10000            | 11000              | 12000          | 13000          | 14000               |
+| +10→11 | 1/11 = 9.1%  | 11000            | 12000              | 13000          | 14000          | 15000               |
+| +11→12 | 1/12 = 8.3%  | 12000            | 13000              | 14000          | 15000          | 16000               |
+| +12→13 | 1/13 = 7.7%  | 13000            | 14000              | 15000          | 16000          | 17000               |
+| +13→14 | 1/14 = 7.1%  | 14000            | 15000              | 16000          | 17000          | 18000               |
+| +14→15 | 1/15 = 6.7%  | 15000            | 16000              | 17000          | 18000          | 19000               |
 
 ### Primary Stat Changes
 
@@ -85,8 +86,8 @@ Artifacts come in different Rarities and cannot be upgraded to higher rarities.
 
 The following table shows **initial stat bonus / bonus per level / max stat bonus**
 
-| Primary Stat | Common    | Uncommon | Rare | Epic | Legendary |
-| ------------ | --------- | -------- | ---- | ---- | --------- |
-| ATK          | 1/1/15    | -------- | ---- | ---- | --------- |
-| DEF          | 1/1/15    | -------- | ---- | ---- | --------- |
-| HP           | 25/15/235 | -------- | ---- | ---- | --------- |
+| Primary Stat | Common    | Uncommon  | Rare      | Epic      | Legendary |
+| ------------ | --------- | --------- | --------- | --------- | --------- |
+| ATK          | 1/1/15    | 2/2/30    | 3/3/45    | 4/4/60    | 5/5/75    |
+| DEF          | 1/1/15    | 2/2/30    | 3/3/45    | 4/4/60    | 5/5/75    |
+| HP           | 10/10/150 | 20/20/300 | 30/30/450 | 40/40/600 | 50/50/750 |
