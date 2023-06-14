@@ -15,7 +15,7 @@ An Artifact will have the following Attributes:
 
 ### Name
 
-The name of an artifact will be '**[Rarity] [Set] Artifact**'
+The name of an artifact will be '**{Rarity} {Set} Artifact**'
 
 For example, "**Common Constitution Artifact**"
 
