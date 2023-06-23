@@ -132,6 +132,16 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      // enables searching functionality
+      algolia: {
+        // The application ID provided by Algolia
+        appId: "068XUBIAGV",
+
+        // Public API key: it is safe to commit it
+        apiKey: "21b45580bb08b4be931469ae5d478bcc",
+
+        indexName: "blockchainrpg_docs",
+      },
     }),
 };
 
