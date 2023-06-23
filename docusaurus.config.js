@@ -141,7 +141,6 @@ const config = {
         apiKey: "21b45580bb08b4be931469ae5d478bcc",
 
         indexName: "blockchainrpg_docs",
-        contextualSearch: true,
       },
     }),
 };
