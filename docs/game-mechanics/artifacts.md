@@ -91,3 +91,37 @@ The following table shows **initial stat bonus / bonus per level / max stat bonu
 | ATK          | 1/1/15    | 2/2/30    | 3/3/45    | 4/4/60    | 5/5/75    |
 | DEF          | 1/1/15    | 2/2/30    | 3/3/45    | 4/4/60    | 5/5/75    |
 | HP           | 10/10/150 | 20/20/300 | 30/30/450 | 40/40/600 | 50/50/750 |
+
+## Equip Conversion
+
+To facilitate a smooth transition, we will be offering conversions from existing equipment to artifacts. The table below shows the mapping.
+
+| Equip                   | Rarity   | Template | Artifact Rarity | Artifact Slot |
+| ----------------------- | -------- | -------- | --------------- | ------------- |
+| Pointy Stick            | Common   |          | Common          | 1             |
+| Raggedy Shirt           | Common   |          | Common          | 3             |
+| Lucky Rock              | Common   |          | Common          | 5             |
+| Pointy Stick            | Uncommon |          | Uncommon        | 1             |
+| Raggedy Shirt           | Uncommon |          | Uncommon        | 3             |
+| Lucky Rock              | Uncommon |          | Uncommon        | 5             |
+| Pointy Stick            | Rare     |          | Rare            | 1             |
+| Raggedy Shirt           | Rare     |          | Rare            | 3             |
+| Lucky Rock              | Rare     |          | Rare            | 5             |
+| Shell Knife             | Common   |          | Common          | 1             |
+| The Shellmet            | Common   |          | Common          | 2             |
+| Shell Necklace          | Common   |          | Common          | 3             |
+| Shell Knife             | Uncommon |          | Uncommon        | 1             |
+| The Shellmet            | Uncommon |          | Uncommon        | 3             |
+| Shell Necklace          | Uncommon |          | Uncommon        | 5             |
+| Slingshot               | Common   |          | Rare            | 1             |
+| Robinhood Hat           | Common   |          | Rare            | 3             |
+| Pouch of Stones         | Common   |          | Rare            | 5             |
+| Ironwood Sword          | Common   |          | Rare            | 1             |
+| Ironwood Buckler        | Common   |          | Rare            | 3             |
+| Ironwood Cuffs          | Common   |          | Rare            | 5             |
+| Sabertooth Dagger       | Uncommon |          | Epic            | 1             |
+| Beast's Visage          | Uncommon |          | Epic            | 3             |
+| Wolfhide Cape           | Uncommon |          | Epic            | 5             |
+| Holiday Top Hat (Green) | Common   |          | Uncommon        | 5             |
+| Holiday Top Hat (Black) | Uncommon |          | Rare            | 5             |
+| Jolly Jabber            | Rare     |          | Epic            | 1             |
