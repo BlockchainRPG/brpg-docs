@@ -37,3 +37,12 @@ Since this set has 5 Characters, the new Character will have 20% chance of being
 - [Legendary Faye](https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/Faye_497766)
 - [Legendary Garrick](https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/Garrick_497767)
 - [Legendary Salazar](https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/Salazar_497768)
+
+### Fusion Costs
+
+| Current Rarity | GOLD cost  |
+| -------------- | ---------- |
+| Common         | 0.00025000 |
+| Uncommon       | 0.00125000 |
+| Rare           | 0.00625000 |
+| Epic           | 0.01250000 |
