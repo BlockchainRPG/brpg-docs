@@ -5,6 +5,8 @@ authors: tomny
 tags: [announcements, patch notes]
 ---
 
+![Banner](./img/patch-notes.png)
+
 ## Upcoming V4.5.0 Changes – Character Fusion!
 
 Introducing Character Fusion! Players will soon be able to Fuse 5 characters of the same rarity to create a new Character of the next rarity tier. We will be replacing Character blends with this new system and allow all Characters to be Fused. These changes will be part of the v4.5.0 release on 8/30/2023.
@@ -13,7 +15,7 @@ Introducing Character Fusion! Players will soon be able to Fuse 5 characters of 
 
 To perform a Fusion, a player must first have 5 Characters of the same rarity in their Staked inventory (Not Recruited!). In the Fusion screen, a player can select the characters they wish to Fuse and click on the Fuse button. Once the player signs the transaction, the characters selected and fusion fee will be burned and the player will be rewarded a new Character of the next highest rarity. The new Character will be randomly selected from the possible characters from the sets selected. Legendary Characters can not be selected for Fusion since there is no higher rarity tier above Legendary.
 
-More details can be found on our docs here: https://docs.blockchainrpg.io/docs/game-mechanics/fusion/
+More details can be found on our docs here: [Character Fusion](/docs/game-mechanics/characters/fusion)
 
 ## Other Changes
 
