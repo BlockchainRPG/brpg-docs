@@ -15,4 +15,4 @@ Characters are the primary way for users to play the game. Each Character has th
 ## Recruiting
 
 Characters must be recruited in order to unlock other features such as hunting, healing, and equiping.
-To recruit a Character, the Character NFT must first in in your [Staked](./staking) inventory. You can then navigate to the Characters Screen and click recruit.
+To recruit a Character, the Character NFT must first in in your [Staked](./docs/game-mechanics/characters/staking) inventory. You can then navigate to the Characters Screen and click recruit.
