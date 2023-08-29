@@ -10,12 +10,9 @@ import styles from "./index.module.css";
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    // <header className={clsx('hero hero--primary', styles.heroBanner)}>
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container">
         <img src="/img/banner.jpg" />
-        {/* <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p> */}
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -37,9 +34,26 @@ export default function Home() {
       description="Let your blockchain adventure begin!"
     >
       <HomepageHeader />
-      {/* <main>
+      <div className={clsx("hero hero--secondary", styles.banner)}>
+        <div className="container">
+          <h2 className={clsx("hero__title", styles.whiteText)}>
+            WELCOME TO BLOCKCHAINRPG!
+          </h2>
+          <p className={clsx("hero__subtitle", styles.whiteText)}>
+            BlockchainRPG is a Digital Item Metaverse in the faraway lands of
+            Aurum. Hunt monsters, gain resources, craft better tools, and
+            compete against others. BlockchainRPG offers a fun play to earn
+            style gameplay. Earn GOLD and rare NFTs while playing.
+            Trade/Buy/Sell your in-game items with other players to assist each
+            other in your adventures!
+            <br />
+            Let your blockchain adventure begin!
+          </p>
+        </div>
+      </div>
+      <main>
         <HomepageFeatures />
-      </main> */}
+      </main>
     </Layout>
   );
 }

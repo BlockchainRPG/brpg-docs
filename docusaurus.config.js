@@ -79,7 +79,7 @@ const config = {
             label: "Getting Started",
             position: "left",
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          { to: "/blog", label: "Blog", position: "right" },
           {
             href: "https://github.com/BlockchainRPG/brpg-docs",
             label: "GitHub",
@@ -91,11 +91,19 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Links",
             items: [
               {
                 label: "Documentation",
                 to: "/docs/disclaimer",
+              },
+              {
+                label: "Terms and Conditions",
+                to: "/terms",
+              },
+              {
+                label: "Privacy Policy",
+                to: "/privacy",
               },
             ],
           },
