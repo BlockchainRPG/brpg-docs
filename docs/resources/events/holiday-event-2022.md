@@ -26,14 +26,14 @@ We recognize that there are a lot of end game users that have too many resources
 
 ### Crafting cost
 
-10,000 gp (0.00010000 GOLD)
-1 PELT
-5 RBTMEAT
-5 BONE
-10 SLIME
-5 SHELL
-1 IRNWOOD
-1 UEE
+- 10,000 gp (0.00010000 GOLD)
+- 1 PELT
+- 5 RBTMEAT
+- 5 BONE
+- 10 SLIME
+- 5 SHELL
+- 1 IRNWOOD
+- 1 UEE
 
 ## Conclusion
 

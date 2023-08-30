@@ -1,10 +1,10 @@
-# Fusion System
+# Character Fusion
 
 The fusion system is a way to combine lower rarity Characters into a higher rarity Character.
 
 ## Specifications
 
-To perform a Fusion, a player must first select 5 Characters of the same rarity in their [Staked](./staking) inventory (Not Recruited!). In the **Fusion** screen, a player can select the characters they wish to Fuse and click on the Fuse button. Once the player signs the transaction, the characters selected and fusion fee will be burned and the player will be rewarded a new Character of the next highest rarity. The new Character will be randomly selected from the possible characters from the sets selected. Legendary Characters can not be selected for Fusion since there is no higher rarity tier above Legendary.
+To perform a Fusion, a player must first have 5 Characters of the same rarity in their [Staked](./docs/game-mechanics/staking) inventory (Not Recruited!). In the **Fusion** screen, a player can select the characters they wish to Fuse and click on the Fuse button. Once the player signs the transaction, the characters selected and fusion fee will be burned and the player will be rewarded a new Character of the next highest rarity. The new Character will be randomly selected from the possible characters from the sets selected. Legendary Characters can not be selected for Fusion since there is no higher rarity tier above Legendary.
 
 ### New Character Selection
 

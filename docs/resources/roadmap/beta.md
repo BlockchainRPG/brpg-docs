@@ -16,7 +16,8 @@ After having a base game created, the team is looking to expand on those initial
 - [x] Level System Reset
 - [x] Daily Quest / Check-in
 - [x] Wombat Integration
-- [ ] Rabbit Stew
+- [x] [Rabbit Stew](/blog/v4-3-0-release)
+- [ ] [Character Fusion](/blog/upcoming-v4-5-0-changes-character-fusion)
 - [ ] Hunting Grounds Difficulty Modes
 - [ ] Expeditions
 - [ ] Artifact System
