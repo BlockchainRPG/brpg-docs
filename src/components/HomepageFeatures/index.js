@@ -5,7 +5,7 @@ import styles from "./styles.module.css";
 const FeatureList = [
   {
     title: "Play & Earn",
-    img: require("@site/static/img/GOLD.png").default,
+    img: require("@site/static/img/gold.png").default,
     description: (
       <>
         BlockchainRPG offers a fun way to earn NFTs by playing the game. Players
