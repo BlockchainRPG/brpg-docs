@@ -42,7 +42,7 @@ export default function Home() {
           <p className={clsx("hero__subtitle", styles.whiteText)}>
             BlockchainRPG is a Digital Item Metaverse in the faraway lands of
             Aurum. Hunt monsters, gain resources, craft better tools, and
-            compete against others. BlockchainRPG offers a fun play to earn
+            compete against others. BlockchainRPG offers a fun play and earn
             style gameplay. Earn GOLD and rare NFTs while playing.
             Trade/Buy/Sell your in-game items with other players to assist each
             other in your adventures!
