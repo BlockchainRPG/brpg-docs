@@ -2,7 +2,7 @@
 
 The FIRST ever sticker capsule for BRPG. There will only be 1000 ever minted. Each capsule will contain a random sticker from the originals set.
 
-![Originals Sticker Capsule Banner](../img/originals-capsule-banner.jpg)
+![Originals Sticker Capsule Banner](./img/originals-capsule-banner.jpg)
 
 <a href="https://wax.atomichub.io/explorer/template/brpg/541172">
     <img src="https://atomichub-ipfs.com/ipfs/QmbiuusVWGG1MJ1RnBs7QXJEdaa934oAS3FpG5eUHtmqc8" />
