@@ -19,6 +19,8 @@ More details can be found on our docs here: [Character Fusion](/docs/game-mechan
 
 ## Other Changes
 
+Added a new Daily Quest: Daily Hunts
+
 Hunt sounds will now play on any page and not be overlapping when opening the Characters page.
 
 Data caching changes for stability errors
