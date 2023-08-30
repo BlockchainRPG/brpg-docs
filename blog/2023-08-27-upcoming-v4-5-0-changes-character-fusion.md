@@ -20,8 +20,12 @@ More details can be found on our docs here: [Character Fusion](/docs/game-mechan
 ## Other Changes
 
 Hunt sounds will now play on any page and not be overlapping when opening the Characters page.
+
 Data caching changes for stability errors
+
 Reworked character select logic to allow filtering and sorting in the future
+
+Fixed Unstaking UI bug
 
 ## Future Changes
 

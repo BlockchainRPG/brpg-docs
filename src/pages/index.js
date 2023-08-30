@@ -30,8 +30,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title} Documentation - Play & Earn NFTs`}
-      description="Let your blockchain adventure begin!"
+      title={`${siteConfig.title} - Play & Earn NFTs`}
+      description={`${siteConfig.tagline}`}
     >
       <HomepageHeader />
       <div className={clsx("hero hero--secondary", styles.banner)}>

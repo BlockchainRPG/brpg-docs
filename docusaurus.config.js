@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "BlockchainRPG",
-  tagline: "Let your blockchain adventure begin!",
+  tagline: "The Best Decentralized Play & Earn RPG!",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
