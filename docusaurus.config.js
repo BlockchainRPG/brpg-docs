@@ -69,6 +69,11 @@ const config = {
         },
         items: [
           {
+            href: "https://play.blockchainrpg.io",
+            label: "Play",
+            position: "left",
+          },
+          {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
