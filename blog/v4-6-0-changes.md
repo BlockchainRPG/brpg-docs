@@ -14,3 +14,4 @@ image: ./img/patch-notes.png
 - Allow Players to purchase the starter pack directly from the game
 - Allow players tyo purchase the Originals Sticker Capsule directly from the game, using staked GOLD balance
 - Fixed Character not focusing correctly on load
+- Characters will automatically regenerate health at 10% / hour
