@@ -10,8 +10,10 @@ image: ./img/patch-notes.png
 
 # Patch Notes
 
-- Fixed healing animation 
-- Allow Players to purchase the starter pack directly from the game
-- Allow players tyo purchase the Originals Sticker Capsule directly from the game, using staked GOLD balance
-- Fixed Character not focusing correctly on load
 - Characters will automatically regenerate health at 10% / hour
+- Fixed healing animation
+- Allow Players to purchase the starter pack directly from the game
+- Allow players to purchase the Originals Sticker Capsule directly from the game, using staked GOLD balance
+- Fixed Character not focusing correctly on load
+- Memory Fixes
+- Fixes for blank images
