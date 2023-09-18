@@ -8,11 +8,19 @@ You may heal a character by going to the Characters Screen, Selecting the charac
 
 ![Character Screen](./img/characters.jpg)
 
-There are currently two ways to heal a Character
+There are currently four ways to heal a Character
 
 ![Heal Popup](./img/heal-popup.jpg)
 
+### Auto Regen
+
+Characters will automatically regenerate 10% of their MAXHP every hour.
+
 ### Free Heal
+
+:::caution Note
+Please be aware that we are moving away from Free Heals in favour of Auto-Regen.
+:::
 
 Each character can heal for free but with varying cooldowns according to the Character's Rarity
 
