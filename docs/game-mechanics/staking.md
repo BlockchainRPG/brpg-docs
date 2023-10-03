@@ -7,7 +7,7 @@ Staking is the process of giving ownership of the items/tokens/NFTs to the game 
 ## How to stake in-game
 
 To equip items, you must first "stake" them in game.
-You can do so by Navigating to the Inventory screen and clicking on the **UNSTAKED** tab.
+You can do so by navigating to the Inventory screen and clicking on the **UNSTAKED** tab.
 
 ![Unstaked Inventory Screen](./img/unstaked-inventory.jpg)
 
