@@ -17,7 +17,9 @@ After having a base game created, the team is looking to expand on those initial
 - [x] Daily Quest / Check-in
 - [x] Wombat Integration
 - [x] [Rabbit Stew](/blog/v4-3-0-release)
-- [ ] [Character Fusion](/blog/upcoming-v4-5-0-changes-character-fusion)
+- [x] [Character Fusion](/blog/upcoming-v4-5-0-changes-character-fusion)
+- [x] [Auto Regen HP &amp; Rarity Multiplier](/blog/v4-6-0-release)
+- [x] [Filter by Character Rarity](/blog/v4-7-0-release)
 - [ ] Hunting Grounds Difficulty Modes
 - [ ] Expeditions
 - [ ] Artifact System
