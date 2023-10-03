@@ -13,7 +13,7 @@ In order to hunt, you will need to have a Character NFT staked first. You may pu
 
 On the Characters Screen, select the character that you wish to send on the hunt.
 
-![Character Popup](/img/characters/character_popup.png)
+![Character Popup](characters/img/character_popup.png)
 
 Clicking the "Hunt" button will show the Map to select the area in which you would like to hunt.
 
