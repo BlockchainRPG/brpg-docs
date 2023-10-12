@@ -5,7 +5,7 @@ import styles from "./styles.module.css";
 const FeatureList = [
   {
     title: "Play & Earn",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    img: require("@site/static/img/gold.png").default,
     description: (
       <>
         BlockchainRPG offers a fun way to earn NFTs by playing the game. Players
@@ -15,33 +15,36 @@ const FeatureList = [
     ),
   },
   {
-    title: "Focus on What Matters",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    title: "Feature Packed",
+    img: require("@site/static/img/milo.png").default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        BlockchainRPG has many different game mechanics that allow players to be
+        fully immersed in gameplay.
       </>
     ),
   },
   {
-    title: "Powered by React",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    title: "Community Driven",
+    Svg: require("@site/static/img/community.svg").default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We work closely with our community in order to provide game enhancements
+        and improvements to the game. We value your feedback!
       </>
     ),
   },
 ];
 
-function Feature({ Svg, title, description }) {
+function Feature({ Svg, title, description, img }) {
+  var Image = <Svg className={styles.featureSvg} role="img" />;
+
+  if (img) {
+    Image = <img className={styles.featureSvg} src={img} />;
+  }
   return (
     <div className={clsx("col col--4")}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
+      <div className="text--center">{Image}</div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>

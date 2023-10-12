@@ -6,27 +6,17 @@ There will eventually come a time when an adventurer will need to heal in order 
 
 You may heal a character by going to the Characters Screen, Selecting the character you wish to heal and then clicking the red heart next to their healthbar.
 
-![Character Screen](./img/characters.jpg)
+![Character Popup](characters/img/character_popup.png)
 
-There are currently two ways to heal a Character
+There are currently three ways to heal a Character
 
-![Heal Popup](./img/heal-popup.jpg)
+![Heal Popup](img/heals_popup.png)
 
-### Free Heal
+### Auto Regen
 
-Each character can heal for free but with varying cooldowns according to the Character's Rarity
+Characters will automatically regenerate 10% of their MAXHP every hour.
 
-**Legendary Heal** – The character will fully heal and gain a cooldown of 30 minutes.
-
-**Epic Heal** – The character will fully heal and gain a cooldown of 1 hour.
-
-**Rare Heal** – The character will fully heal and gain a cooldown of 1 hour and 30 minutes.
-
-**Uncommon Heal** – The character will fully heal and gain a cooldown of 2 hours.
-
-**Common Heal** – The character will fully heal and gain a cooldown of 2 hour and 30 minutes.
-
-### HPPOT (Health Potion)
+### HPPOT (Small Health Potion)
 
 Characters are able to consume HPPOTs to heal 50 health (per HPPOT) without gaining any cooldowns.
 

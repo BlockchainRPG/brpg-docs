@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "BlockchainRPG",
-  tagline: "Let your blockchain adventure begin!",
+  tagline: "The Best Decentralized Play & Earn RPG!",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -69,6 +69,11 @@ const config = {
         },
         items: [
           {
+            href: "https://play.blockchainrpg.io",
+            label: "Play",
+            position: "left",
+          },
+          {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
@@ -79,7 +84,12 @@ const config = {
             label: "Getting Started",
             position: "left",
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: "https://shop.blockchainrpg.io",
+            label: "Shop",
+            position: "left",
+          },
+          { to: "/blog", label: "Blog", position: "right" },
           {
             href: "https://github.com/BlockchainRPG/brpg-docs",
             label: "GitHub",
@@ -91,11 +101,19 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Links",
             items: [
               {
                 label: "Documentation",
                 to: "/docs/disclaimer",
+              },
+              {
+                label: "Terms and Conditions",
+                to: "/terms",
+              },
+              {
+                label: "Privacy Policy",
+                to: "/privacy",
               },
             ],
           },

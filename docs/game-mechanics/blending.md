@@ -8,7 +8,7 @@ Please be aware that we are moving away from blends and there will be limited su
 
 # How to Blend
 
-Visit https://neftyblocks.com/c/blokchainrpg/blends and Login
+In the [Crafting](./crafting) screen, click on the Blends button or visit [https://neftyblocks.com/c/blokchainrpg/blends](https://neftyblocks.com/c/blokchainrpg/blends) and Login
 
 ![Blending on NeftyBlocks](./img/blend.webp)
 
