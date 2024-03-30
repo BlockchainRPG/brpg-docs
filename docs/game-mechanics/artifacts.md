@@ -1,6 +1,8 @@
-# Artifacts [WIP]
+# Artifacts
 
 Artifacts are NFTs that characters can equip to improve their stats. The Artifact system will replace the current equipment system.
+
+At the moment, Players will be able to continue using the current equipment system OR switch to the new Artifact system. This switch will be mandatory in a future update.
 
 ## Attributes
 
@@ -23,7 +25,7 @@ For example, "**Common Constitution Artifact**"
 
 The Set of an Artifact will give the character special set effects if there are enough Artifacts of the same set equipped.
 
-#### Constitution
+#### Constitution [WIP]
 
 The Constitution set will give a 15% bonus to HP for every 2 Artifacts equipped.
 
@@ -39,7 +41,7 @@ This is the Stat a specific Artifact will primarily increase.
 
 For Example, a Constitution Artifact with a primary stat of "ATK" will give bonus ATK. Upgrading this artifact will increase the bonus that the artifact gives.
 
-### Substats
+### Substats [WIP]
 
 Substats are additional bonus stats that an Artifact can give.
 
@@ -63,8 +65,8 @@ Artifacts can be upgraded using GOLD with a success rate of **1/{NEXT_LEVEL}**. 
 
 ### Cost
 
-| Levels | Success rate | Common cost (gp) | Uncommon cost (gp) | Rare cost (gp) | Epic cost (gp) | Legendary cost (gp) |
-| ------ | ------------ | ---------------- | ------------------ | -------------- | -------------- | ------------------- |
+| Levels  | Success rate | Common cost (gp) | Uncommon cost (gp) | Rare cost (gp) | Epic cost (gp) | Legendary cost (gp) |
+| ------- | ------------ | ---------------- | ------------------ | -------------- | -------------- | ------------------- |
 | +1→2   | 1/2 = 50%    | 2000             | 3000               | 4000           | 5000           | 6000                |
 | +2→3   | 1/3 = 33.3%  | 3000             | 4000               | 5000           | 6000           | 7000                |
 | +3→4   | 1/4 = 25%    | 4000             | 5000               | 6000           | 7000           | 8000                |
@@ -92,7 +94,7 @@ The following table shows **initial stat bonus / bonus per level / max stat bonu
 | DEF          | 1/1/15    | 2/2/30    | 3/3/45    | 4/4/60    | 5/5/75    |
 | HP           | 10/10/150 | 20/20/300 | 30/30/450 | 40/40/600 | 50/50/750 |
 
-## Equip Conversion
+## Equip Conversion [WIP]
 
 To facilitate a smooth transition, we will be offering conversions from existing equipment to artifacts. The table below shows the mapping.
 
