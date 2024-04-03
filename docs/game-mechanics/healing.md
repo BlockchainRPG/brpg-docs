@@ -1,6 +1,6 @@
 # Healing
 
-There will eventually come a time when an adventurer will need to heal in order to avoid dying during the next hunt. You can heal either by consuming a HP Regeneration consumable item (ex. HPPOT) or using the free heal mechanic available for all adventurers.
+There will eventually come a time when an adventurer will need to heal in order to avoid dying during the next hunt. Characters will automatically regenerate health over time but you can also heal characters by consuming a HP Regeneration consumable item (ex. HPPOT, Rabbit Stew)
 
 ## How to Heal
 
