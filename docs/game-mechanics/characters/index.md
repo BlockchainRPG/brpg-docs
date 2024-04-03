@@ -22,6 +22,8 @@ Character Rarity affects gameplay by offering a rewards multiplier for a success
 
 ## Recruiting
 
+Note: As of v5.1.0-beta, Staking a character will automatically recruit the character. The recruit button will now be used to mass recruit staked Characters that have not been recruited.
+
 To recruit a Character, the Character NFT must first in in your [Staked](./docs/game-mechanics/staking) inventory. You can then navigate to the Characters Screen and click recruit.
 
 ![Recruit Popup](img/recruit_popup.png)
