@@ -20,6 +20,8 @@ Character Rarity affects gameplay by offering a rewards multiplier for a success
 | Uncommon  | 15%                   | 2x                     |
 | Common    | 77.5%                 | 1x                     |
 
+Character Rarity will also allow Characters to equip Artifacts of the same or lower rarity.
+
 ## Recruiting
 
 Note: As of v5.1.0-beta, Staking a character will automatically recruit the character. The recruit button will now be used to mass recruit staked Characters that have not been recruited.
