@@ -4,16 +4,23 @@ Artifacts are NFTs that characters can equip to improve their stats. The Artifac
 
 At the moment, Players will be able to continue using the current equipment system OR switch to the new Artifact system. This switch will be mandatory in a future update.
 
+- [Artifacts](#artifacts)
+  - [Attributes](#attributes)
+    - [Name](#name)
+    - [Set](#set)
+      - [Constitution \[WIP\]](#constitution-wip)
+    - [Level](#level)
+    - [Primary Stat](#primary-stat)
+    - [Substats \[WIP\]](#substats-wip)
+    - [Slot](#slot)
+  - [Upgrading](#upgrading)
+    - [Cost](#cost)
+    - [Primary Stat Changes](#primary-stat-changes)
+  - [Equip Conversion](#equip-conversion)
+
 ## Attributes
 
 An Artifact will have the following Attributes:
-
-- [Name](#name)
-- [Set](#set)
-- [Level](#level)
-- [Primary Stat](#primary-stat)
-- [Substats](#substats)
-- [Slot](#slot)
 
 ### Name
 
@@ -61,16 +68,16 @@ This is the slot that an artifact will fit in. Each slot will have specific prim
 
 ## Upgrading
 
-Artifacts can be upgraded using GOLD with a success rate of **1/{NEXT_LEVEL}**. Each successful upgrade will increase the Level of the Artifact by 1. The maximum level of an Artifact is **5 (subject to change)**.
+Artifacts can be upgraded using GOLD with a success rate of **2/{NEXT_LEVEL}**. Each successful upgrade will increase the Level of the Artifact by 1. The maximum level of an Artifact is **5 (subject to change)**.
 
 ### Cost
 
 | Levels       | Success rate     | Common cost (gp) | Uncommon cost (gp) | Rare cost (gp) | Epic cost (gp) | Legendary cost (gp) |
 | ------------ | ---------------- | ---------------- | ------------------ | -------------- | -------------- | ------------------- |
-| +1→2        | 1/2 = 50%        | 2000             | 3000               | 4000           | 5000           | 6000                |
-| +2→3        | 1/3 = 33.3%      | 3000             | 4000               | 5000           | 6000           | 7000                |
-| +3→4        | 1/4 = 25%        | 4000             | 5000               | 6000           | 7000           | 8000                |
-| +4→5        | 1/5 = 20%        | 5000             | 6000               | 7000           | 8000           | 9000                |
+| +1→2        | 2/2 = 100%       | 2000             | 3000               | 4000           | 5000           | 6000                |
+| +2→3        | 2/3 = 66.6%      | 3000             | 4000               | 5000           | 6000           | 7000                |
+| +3→4        | 2/4 = 50%        | 4000             | 5000               | 6000           | 7000           | 8000                |
+| +4→5        | 2/5 = 40%        | 5000             | 6000               | 7000           | 8000           | 9000                |
 | ~~+5→6~~   | ~~1/6 = 16.7%~~ | ~~6000~~        | ~~7000~~          | ~~8000~~      | ~~9000~~      | ~~10000~~          |
 | ~~+6→7~~   | ~~1/7 = 14.3%~~ | ~~7000~~        | ~~8000~~          | ~~9000~~      | ~~10000~~     | ~~11000~~          |
 | ~~+7→8~~   | ~~1/8 = 12.5%~~ | ~~8000~~        | ~~9000~~          | ~~10000~~     | ~~11000~~     | ~~12000~~          |
