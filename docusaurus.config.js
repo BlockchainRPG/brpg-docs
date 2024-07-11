@@ -84,11 +84,6 @@ const config = {
             label: "Getting Started",
             position: "left",
           },
-          {
-            href: "https://shop.blockchainrpg.io",
-            label: "Shop",
-            position: "left",
-          },
           { to: "/blog", label: "Blog", position: "right" },
           {
             href: "https://github.com/BlockchainRPG/brpg-docs",
