@@ -1,6 +1,11 @@
-# Referral System [Experimental]
+# Referral System
 
 The Referral System incentivises players to share the game with their friends and peers. Player can share their referral link and when a user signs up using the link, the new user will be set as a referral to the existing player. Referrers will be able to earn a reward when the new player purchases a pack drop. (Conditions apply. See below)
+
+:::caution Note
+Please be aware that this is an expoeriemental feature and has not been tested on a large scale. If you experience any issues, please reach out to us.
+
+:::
 
 ## Pre-Existing Referrals
 
