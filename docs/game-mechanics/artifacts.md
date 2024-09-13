@@ -4,27 +4,13 @@ Artifacts are NFTs that characters can equip to improve their stats. The Artifac
 
 At the moment, Players will be able to continue using the current equipment system OR switch to the new Artifact system. This switch will be mandatory in a future update.
 
-- [Artifacts](#artifacts)
-  - [Attributes](#attributes)
-    - [Name](#name)
-    - [Set](#set)
-      - [Constitution \[WIP\]](#constitution-wip)
-    - [Level](#level)
-    - [Primary Stat](#primary-stat)
-    - [Substats \[WIP\]](#substats-wip)
-    - [Slot](#slot)
-  - [Upgrading](#upgrading)
-    - [Cost](#cost)
-    - [Primary Stat Changes](#primary-stat-changes)
-  - [Equip Conversion](#equip-conversion)
-
 ## Attributes
 
 An Artifact will have the following Attributes:
 
 ### Name
 
-The name of an artifact will be '**{Rarity} {Set} Artifact**'
+The name of an artifact will be '**(Rarity) (Set) Artifact**'
 
 For example, "**Common Constitution Artifact**"
 
@@ -68,7 +54,7 @@ This is the slot that an artifact will fit in. Each slot will have specific prim
 
 ## Upgrading
 
-Artifacts can be upgraded using GOLD with a success rate of **2/{NEXT_LEVEL}**. Each successful upgrade will increase the Level of the Artifact by 1. The maximum level of an Artifact is **5 (subject to change)**.
+Artifacts can be upgraded using GOLD with a success rate of **2/(NEXT_LEVEL)**. Each successful upgrade will increase the Level of the Artifact by 1. The maximum level of an Artifact is **5 (subject to change)**.
 
 ### Cost
 

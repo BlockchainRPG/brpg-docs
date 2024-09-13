@@ -14,9 +14,9 @@ Bosses will have two different loot tables. Each with their own rewards.
 
 ### Regular Loot Table
 
-The regular loot table will include common rewards with a chance to hit a special loot table 
+The regular loot table will include common rewards with a chance to hit a special loot table
 
-Every 1% of the max health of a boss will give the user a random drop from the Regular loot table. 
+Every 1% of the max health of a boss will give the user a random drop from the Regular loot table.
 
 ### Special Loot Table
 
