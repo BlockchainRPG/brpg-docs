@@ -4,22 +4,28 @@ After having a base game created, the team is looking to expand on those initial
 
 ## V3 Changes
 
-- [x] Unity Integration
-- [x] Level System
-- [x] In-Game Chat
-- [x] New Community Events
-- [x] New game contract/rebranding
+- [X] Unity Integration
+- [X] Level System
+- [X] In-Game Chat
+- [X] New Community Events
+- [X] New game contract/rebranding
 
 ## V4 Changes
 
-- [x] Multiple Characters
-- [x] Level System Reset
-- [x] Daily Quest / Check-in
-- [x] Wombat Integration
-- [x] [Rabbit Stew](/blog/v4-3-0-release)
-- [x] [Character Fusion](/blog/upcoming-v4-5-0-changes-character-fusion)
-- [x] [Auto Regen HP &amp; Rarity Multiplier](/blog/v4-6-0-release)
-- [x] [Filter by Character Rarity](/blog/v4-7-0-release)
-- [ ] Hunting Grounds Difficulty Modes
-- [ ] Expeditions
-- [ ] Artifact System
+- [X] Multiple Characters
+- [X] Level System Reset
+- [X] Daily Quest / Check-in
+- [X] Wombat Integration
+- [X] [Rabbit Stew](/blog/v4-3-0-release)
+- [X] [Character Fusion](/blog/upcoming-v4-5-0-changes-character-fusion)
+- [X] [Auto Regen HP &amp; Rarity Multiplier](/blog/v4-6-0-release)
+- [X] [Filter by Character Rarity](/blog/v4-7-0-release)
+
+## V5 Changes
+
+- [X] Artifact System
+- [X] New Hunting Ground: Plains
+- [X] Boss Fights
+- [ ] Multiple Characters on a Hunt
+- [ ] Interactive Hunts
+- [ ] Guilds
