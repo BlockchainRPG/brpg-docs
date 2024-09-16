@@ -2,6 +2,8 @@
 
 Bosses are unique powerful monsters that players can fight for greater rewards, but be careful as they are extremely deadly.
 
+Bosses will have their HP shared for everyone. This means that everyone must work together in order to defeat them!
+
 Characters that die whilst fighting a boss will only suffer a max death penalty of 5 minutes.
 
 Each boss will have a rarity (Currently only Common) which will dictate the strength and rewards of the boss.
