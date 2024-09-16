@@ -20,6 +20,12 @@ After having a base game created, the team is looking to expand on those initial
 - [x] [Character Fusion](/blog/upcoming-v4-5-0-changes-character-fusion)
 - [x] [Auto Regen HP &amp; Rarity Multiplier](/blog/v4-6-0-release)
 - [x] [Filter by Character Rarity](/blog/v4-7-0-release)
-- [ ] Hunting Grounds Difficulty Modes
-- [ ] Expeditions
-- [ ] Artifact System
+
+## V5 Changes
+
+- [x] Artifact System
+- [x] New Hunting Ground: Plains
+- [x] Boss Fights
+- [ ] Multiple Characters on a Hunt
+- [ ] Interactive Hunts
+- [ ] Guilds
