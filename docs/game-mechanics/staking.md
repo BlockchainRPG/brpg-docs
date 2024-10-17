@@ -1,7 +1,5 @@
 # Staking
 
-## What is staking?
-
 Staking is the process of giving ownership of the items/tokens/NFTs to the game contract. This allows you to access the main features and play the game.
 
 ## How to stake in-game

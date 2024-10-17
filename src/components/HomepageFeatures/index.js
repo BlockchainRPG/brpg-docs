@@ -19,8 +19,9 @@ const FeatureList = [
     img: require("@site/static/img/milo.png").default,
     description: (
       <>
-        BlockchainRPG has many different game mechanics that allow players to be
-        fully immersed in gameplay.
+        BlockchainRPG has many different{" "}
+        <a href="/docs/category/game-mechanics">game mechanics</a> that allow
+        players to be fully immersed in gameplay.
       </>
     ),
   },

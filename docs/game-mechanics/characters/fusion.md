@@ -6,6 +6,15 @@ The fusion system is a way to combine lower rarity Characters into a higher rari
 
 To perform a Fusion, a player must first have 5 Characters of the same rarity. In the **Fusion** screen, a player can select the characters they wish to Fuse and click on the Fuse button. Once the player signs the transaction, the characters selected and fusion fee will be burned and the player will be rewarded a new Character of the next highest rarity. The new Character will be randomly selected from the possible characters from the sets selected. Legendary Characters can not be selected for Fusion since there is no higher rarity tier above Legendary.
 
+### Fusion Costs
+
+| Current Rarity | GOLD cost  |
+| -------------- | ---------- |
+| Common         | 0.00025000 |
+| Uncommon       | 0.00125000 |
+| Rare           | 0.00625000 |
+| Epic           | 0.01250000 |
+
 ### Fusion Screen
 
 ![Fusion Screen](img/fusion.png)
@@ -41,12 +50,3 @@ Since this set has 5 Characters, the new Character will have 20% chance of being
 - [Legendary Faye](https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/Faye_497766)
 - [Legendary Garrick](https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/Garrick_497767)
 - [Legendary Salazar](https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/Salazar_497768)
-
-### Fusion Costs
-
-| Current Rarity | GOLD cost  |
-| -------------- | ---------- |
-| Common         | 0.00025000 |
-| Uncommon       | 0.00125000 |
-| Rare           | 0.00625000 |
-| Epic           | 0.01250000 |
