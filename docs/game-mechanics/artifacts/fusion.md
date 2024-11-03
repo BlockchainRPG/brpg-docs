@@ -8,8 +8,8 @@ To perform a Fusion, a player must first have 5 Artifacts of the same rarity in 
 
 ### Fusion Costs
 
-| Current Rarity | GOLD cost  |
-| -------------- | ---------- |
+| Current Rarity | GOLD cost |
+| -------------- | --------- |
 | Common         | 0.0002500 |
 | Uncommon       | 0.0012500 |
 | Rare           | 0.0062500 |
@@ -17,16 +17,14 @@ To perform a Fusion, a player must first have 5 Artifacts of the same rarity in 
 
 ### Fusion Screen
 
-
-
 ### New Artifact Selection
 
 Each selected Artifact for fusion will have their attributes randomly selected for the resulting Artifact
 
 Attributes:
+
 - Level
 - Slot (and Primary Stat)
 - Set
 
 The resulting Artifact will randomly pick each attribute from the input Artifacts at equal chance.
-
