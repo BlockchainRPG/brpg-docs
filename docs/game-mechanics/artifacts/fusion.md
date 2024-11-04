@@ -8,12 +8,12 @@ To perform a Fusion, a player must first have 5 Artifacts of the same rarity in 
 
 ### Fusion Costs
 
-| Current Rarity | GOLD cost |
-| -------------- | --------- |
-| Common         | 0.0002500 |
-| Uncommon       | 0.0012500 |
-| Rare           | 0.0062500 |
-| Epic           | 0.0125000 |
+| Current Rarity | GOLD cost  |
+| -------------- | ---------- |
+| Common         | 0.00002500 |
+| Uncommon       | 0.00012500 |
+| Rare           | 0.00062500 |
+| Epic           | 0.00325000 |
 
 ### Fusion Screen
 

@@ -13,7 +13,7 @@ To perform a Fusion, a player must first have 5 Characters of the same rarity. I
 | Common         | 0.00025000 |
 | Uncommon       | 0.00125000 |
 | Rare           | 0.00625000 |
-| Epic           | 0.01250000 |
+| Epic           | 0.03250000 |
 
 ### Fusion Screen
 
