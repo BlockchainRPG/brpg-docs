@@ -6,25 +6,20 @@ Bosses will have their HP shared for everyone. This means that everyone must wor
 
 Characters that die whilst fighting a boss will only suffer a max death penalty of 5 minutes.
 
-Each boss will have a rarity (Currently only Common) which will dictate the strength and rewards of the boss.
-
-Bosses are currently a new feature and will be manually spawned in. In the future we will allow them to be summoned using items.
+Each boss will have a rarity which will dictate the strength and rewards of the boss.
 
 ## Drops
 
-Bosses will have two different loot tables. Each with their own rewards.
+Bosses will have their own Loot Table. In order to recieve a drop, a player must do enough cumulative damage to a boss. Every 1% of the max health of a boss will reward the player with a roll in the Boss's loot table.
 
-### Regular Loot Table
+**Additional Rolls**
+- The player who performs a "Last Hit" on the boss will receive an additional Roll.
+- If the boss was Summoned, then the player who summoned the boss will also receive an additional Roll on Boss death.
 
-The regular loot table will include common rewards with a chance to hit a special loot table
+## Summoning A Boss
 
-Every 1% of the max health of a boss will give the user a random drop from the Regular loot table.
-
-### Special Loot Table
-
-Special Loot Table is considered the rare drop for a boss. A roll in the Special loot table is guaranteed to be an Artifact.
-
-The player who performs a "Last Hit" on the boss will receive a Special Roll.
+Bosses can be summoned via the Summon Button on the Bosses Screen.
+![Boss Screen](./img/boss.png)
 
 ## Boss List
 
@@ -32,7 +27,13 @@ Here are the different Bosses that you can fight
 
 ### Giant Slime
 
-Currently the only boss available is the Giant Slime. The Giant Slime is a Common boss
+The Giant Slime is a Common boss that can be summoned.
+
+#### Summoning Cost
+
+- 5000 gp
+- 10 CEE
+- 250 SLIME
 
 #### Stats
 
@@ -44,17 +45,34 @@ Currently the only boss available is the Giant Slime. The Giant Slime is a Commo
 
 #### Drops
 
-The regular loot table is as follows (subject to change):
+| Odds | Outcome                                                                  |
+| ---- | ------------------------------------------------------------------------ |
+| 80%  | 10x GOLD                                                                 |
+| 10%  | [Token Loot Table](/docs/game-mechanics/loottables#token-loot-table)     |
+| 10%  | [Special Loot Table](/docs/game-mechanics/loottables#special-loot-table) |
 
-| Odds | Outcome            |
-| ---- | ------------------ |
-| 90%  | 10x GOLD           |
-| 10%  | Special Loot Table |
+### Holiday Treant
 
-The special loot table is as follows (subject to change):
+The Holiday Treant is an Uncommon boss that can be summoned for a Limited Time only!
 
-| Odds | Outcome           |
-| ---- | ----------------- |
-| 80%  | Common Artifact   |
-| 15%  | Uncommon Artifact |
-| 5%   | Rare Artifact     |
+#### Summoning Cost
+
+- 10000 gp
+- 10 UEE
+- 50 IRNWOOD
+
+#### Stats
+
+| Stat | Amount  |
+| ---- | ------- |
+| HP   | 200,000 |
+| ATK  | 20      |
+| DEF  | 20      |
+
+#### Drops
+
+| Odds | Outcome                                                                  |
+| ---- | ------------------------------------------------------------------------ |
+| 70%  | 20x GOLD                                                                 |
+| 10%  | [Token Loot Table](/docs/game-mechanics/loottables#token-loot-table)     |
+| 20%  | [Special Loot Table](/docs/game-mechanics/loottables#special-loot-table) |
