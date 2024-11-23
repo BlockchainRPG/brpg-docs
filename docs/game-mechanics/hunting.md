@@ -21,7 +21,7 @@ Click on swamplands (or another hunting ground if you desire) to travel to the h
 
 **Please note that the difficulty begins at 1 for the easiest hunting ground and increases to signify more difficult hunts. At more difficult hunting grounds, the mobs will deal significantly more damage to you**
 
-You can click on the “Drop Info” button near the bottom-left of the map to see the potential rewards that can be found at a hunting ground
+You can click on the "Drop Info" button near the bottom-left of the map to see the potential rewards that can be found at a hunting ground
 
 When you are ready to attempt your first hunt, click on the yellow "Hunt" button
 
