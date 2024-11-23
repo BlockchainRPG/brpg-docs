@@ -13,6 +13,7 @@ Each boss will have a rarity which will dictate the strength and rewards of the 
 Bosses will have their own Loot Table. In order to recieve a drop, a player must do enough cumulative damage to a boss. Every 1% of the max health of a boss will reward the player with a roll in the Boss's loot table.
 
 **Additional Rolls**
+
 - The player who performs a "Last Hit" on the boss will receive an additional Roll.
 - If the boss was Summoned, then the player who summoned the boss will also receive an additional Roll on Boss death.
 
