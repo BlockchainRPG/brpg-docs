@@ -13,6 +13,7 @@ This Pack contains a random rarity Elara Character, showcasing a beautiful new a
 **Max Supply:** 1000
 
 [Buy with WAX](https://neftyblocks.com/collection/brpg/drops/228824)
+
 [Buy with GOLD (Limit 100)](https://nfthive.io/drop/10223)
 
 ## Drops
