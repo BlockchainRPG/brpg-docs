@@ -38,11 +38,11 @@ The Giant Slime is a Common boss that can be summoned.
 
 #### Stats
 
-| Stat | Amount  |
-| ---- | ------- |
-| HP   | 100,000 |
-| ATK  | 10      |
-| DEF  | 10      |
+| Stat | Amount |
+| ---- | ------ |
+| HP   | 50,000 |
+| ATK  | 10     |
+| DEF  | 10     |
 
 #### Drops
 
@@ -51,3 +51,30 @@ The Giant Slime is a Common boss that can be summoned.
 | 80%  | 10x GOLD                                                                 |
 | 10%  | [Token Loot Table](/docs/game-mechanics/loottables#token-loot-table)     |
 | 10%  | [Special Loot Table](/docs/game-mechanics/loottables#special-loot-table) |
+
+### Holiday Treant
+
+The Holiday Treant is an Uncommon boss that can be summoned for a limited time.
+
+#### Summoning Cost
+
+- 10000 gp
+- 10 UEE
+- 50 IRNWOOD
+
+#### Stats
+
+| Stat | Amount |
+| ---- | ------ |
+| HP   | 50,000 |
+| ATK  | 20     |
+| DEF  | 20     |
+
+#### Drops
+
+| Odds | Outcome                                                                  |
+| ---- | ------------------------------------------------------------------------ |
+| 68%  | 10x GOLD                                                                 |
+| 2%   | [Elara Pack](/docs/resources/packs/elara-pack)                           |
+| 10%  | [Token Loot Table](/docs/game-mechanics/loottables#token-loot-table)     |
+| 20%  | [Special Loot Table](/docs/game-mechanics/loottables#special-loot-table) |
