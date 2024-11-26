@@ -8,9 +8,12 @@ This Pack contains a random rarity Elara Character, showcasing a beautiful new a
     <img src="https://atomichub-ipfs.com/ipfs/QmbrJDEDhnEmV6Y88MYC84DqGQ6hMuVERpGcC2BZL3LXvu" />
 </a>
 
-**Release Date:** 11/30/2024
+**Release Date:** 12/01/2024
 
 **Max Supply:** 1000
+
+[Buy with GOLD](https://nfthive.io/drop/10223)
+[Buy with WAX](https://nfthive.io/drop/10224)
 
 ## Drops
 
