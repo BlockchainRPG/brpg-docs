@@ -85,6 +85,11 @@ const config = {
             label: "Getting Started",
             position: "left",
           },
+          {
+            to: "/docs/resources/packs/elara-pack",
+            label: "New Elara Pack Drop!",
+            position: "left",
+          },
           { to: "/blog", label: "Blog", position: "right" },
           {
             href: "https://github.com/BlockchainRPG/brpg-docs",
