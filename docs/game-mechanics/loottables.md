@@ -21,7 +21,7 @@ These tables are subject to change as we see fit for balancing and events.
 | 25%  | SLIME (1-5)   |
 | 25%  | SHELL (1-5)   |
 | 10%  | HPPOT (1-5)   |
-| 10%  | PELT (1-5)    |
+| 10%  | PELT (1-3)    |
 | 10%  | RBTMEAT (1-5) |
 | 10%  | BONE (1-5)    |
 | 10%  | IRNWOOD (1-5) |
