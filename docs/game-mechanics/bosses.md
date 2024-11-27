@@ -74,7 +74,7 @@ The Holiday Treant is an Uncommon boss that can be summoned for a limited time.
 
 | Odds | Outcome                                                                  |
 | ---- | ------------------------------------------------------------------------ |
-| 68%  | 10x GOLD                                                                 |
-| 2%   | [Elara Pack](/docs/resources/packs/elara-pack)                           |
+| 69%  | 10x GOLD                                                                 |
+| 1%   | [Elara Pack](/docs/resources/packs/elara-pack)                           |
 | 10%  | [Token Loot Table](/docs/game-mechanics/loottables#token-loot-table)     |
 | 20%  | [Special Loot Table](/docs/game-mechanics/loottables#special-loot-table) |
