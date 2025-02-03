@@ -1,6 +1,6 @@
 # Holiday Gift Box 2021
 
-![Holiday Gift Box 2021](https://atomichub-ipfs.com/ipfs/QmbDoFyV5SufJaMZLm6U7Ry1v5PHYLShG846MU359SLZyt)
+![Holiday Gift Box 2021](https://ipfs.neftyblocks.io/ipfs/QmbDoFyV5SufJaMZLm6U7Ry1v5PHYLShG846MU359SLZyt)
 
 This Pack was dropped as part of the [Holiday Event 2021](../events/holiday-event-2021.md)
 

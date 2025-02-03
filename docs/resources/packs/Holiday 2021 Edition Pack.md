@@ -1,6 +1,6 @@
 # Holiday 2021 Edition Pack
 
-![Holiday 2021 Edition Pack](https://atomichub-ipfs.com/ipfs/QmYV3DEbDsTbUcA47Qn8yVgy8yhorkV3CnC8XxaU1WLBup)
+![Holiday 2021 Edition Pack](https://ipfs.neftyblocks.io/ipfs/QmYV3DEbDsTbUcA47Qn8yVgy8yhorkV3CnC8XxaU1WLBup)
 
 **Template:** https://wax.atomichub.io/explorer/template/blokchainrpg/400930
 

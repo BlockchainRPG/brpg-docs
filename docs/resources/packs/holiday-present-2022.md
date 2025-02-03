@@ -7,7 +7,7 @@ This event has ended and this pack is no longer craftable.
 :::
 
 <a href="https://wax.atomichub.io/explorer/template/brpg/644798">
-    <img src="https://atomichub-ipfs.com/ipfs/QmUv4MvXxeGAXo3RHx3UpBJ15Xt8eaSwiycgHxqaFQPRTa" />
+    <img src="https://ipfs.neftyblocks.io/ipfs/QmUv4MvXxeGAXo3RHx3UpBJ15Xt8eaSwiycgHxqaFQPRTa" />
 </a>
 
 **Release Date:** December 25, 2022
@@ -34,7 +34,7 @@ You can open this pack by going here: https://neftyblocks.com/c/brpg/packs
 ### Frost The Snowdragon (0.5%)
 
 <a href="https://wax.atomichub.io/explorer/template/brpg/644797">
-    <img src="https://atomichub-ipfs.com/ipfs/QmeAWpQPbi7rXGJ1TdxpcLQz1tCVxAyb52DXSyo3VwpyrD" />
+    <img src="https://ipfs.neftyblocks.io/ipfs/QmeAWpQPbi7rXGJ1TdxpcLQz1tCVxAyb52DXSyo3VwpyrD" />
 </a>
 
 This man made sculpture may not be anatomically correct but it sure is festive!
@@ -42,7 +42,7 @@ This man made sculpture may not be anatomically correct but it sure is festive!
 ### Aurora Stocking (2%)
 
 <a href="https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/644796">
-    <img src="https://atomichub-ipfs.com/ipfs/QmasYvup91JZeTV13BP7Xa8dDLerQVg38HRNVjDpqxKDki" />
+    <img src="https://ipfs.neftyblocks.io/ipfs/QmasYvup91JZeTV13BP7Xa8dDLerQVg38HRNVjDpqxKDki" />
 </a>
 
 If you were naughty, coal would be the least of your worries!
@@ -50,7 +50,7 @@ If you were naughty, coal would be the least of your worries!
 ### Festive Wreath (5%)
 
 <a href="https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/644795">
-    <img src="https://atomichub-ipfs.com/ipfs/QmYGugob4YoAsFw4qFa4Nz5b6wU59YZEY6p1D74cpomDKM" />
+    <img src="https://ipfs.neftyblocks.io/ipfs/QmYGugob4YoAsFw4qFa4Nz5b6wU59YZEY6p1D74cpomDKM" />
 </a>
 
 The monsters will feel my Wreath!
@@ -58,7 +58,7 @@ The monsters will feel my Wreath!
 ### Salazar Surprise! (15%)
 
 <a href="https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/644794">
-    <img src="https://atomichub-ipfs.com/ipfs/QmNWdmuU7UZsGUJ62k33mgG77wM5W4tdf9v6VoeTKiXFPk" />
+    <img src="https://ipfs.neftyblocks.io/ipfs/QmNWdmuU7UZsGUJ62k33mgG77wM5W4tdf9v6VoeTKiXFPk" />
 </a>
 
 There’s no time like the present!
@@ -66,7 +66,7 @@ There’s no time like the present!
 ### Festive Ornament (77.5%)
 
 <a href="https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/644793">
-    <img src="https://atomichub-ipfs.com/ipfs/QmNe61TqvjxLB3jQ5jKZoE29SdGE5MNppzhBV1aXvwP7SW" />
+    <img src="https://ipfs.neftyblocks.io/ipfs/QmNe61TqvjxLB3jQ5jKZoE29SdGE5MNppzhBV1aXvwP7SW" />
 </a>
 
 Glowing with holiday spirit!

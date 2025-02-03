@@ -21,7 +21,7 @@ We recognize that there are a lot of end game users that have too many resources
 **Limit:** There will be a limit of 1000 Holiday Present (2022) minted.
 
 <a href="../packs/holiday-present-2022">
-    <img src="https://atomichub-ipfs.com/ipfs/QmUv4MvXxeGAXo3RHx3UpBJ15Xt8eaSwiycgHxqaFQPRTa" />
+    <img src="https://ipfs.neftyblocks.io/ipfs/QmUv4MvXxeGAXo3RHx3UpBJ15Xt8eaSwiycgHxqaFQPRTa" />
 </a>
 
 ### Crafting cost
