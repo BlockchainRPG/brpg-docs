@@ -12,7 +12,7 @@ These tables are subject to change as we see fit for balancing and events.
 | ---- | ------------------- |
 | 65%  | Essence Loot Table  |
 | 30%  | Artifact Loot Table |
-| 5%   | Character Pack      |
+| 2.5%   | Character Pack      |
 
 ## Token Loot Table
 
