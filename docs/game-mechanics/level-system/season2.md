@@ -2,33 +2,13 @@
 
 Season 2 was the second iteration of the Level System. Everyone who participated will receive rewards based on their level and ranking.
 
-**End Date:** 12/31/2024
+**End Date:** 03/21/2025
 
-## Rewards
+## Battle Pass Rewards
 
-### Everyone
+![alt text](./img/battle_pass.png)
 
-Sticker
-
-### Level 10
-
-1 roll in the
-
-### level 25
-
-<a href="https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/669311">
-    <img src="https://ipfs.neftyblocks.io/ipfs/QmdSfP5CEKz9YbVNbMR4UW61Qoa1nN8KvxTEsoxpc4D9it" />
-</a>
-
-This sticker is awarded to those who reached level 25 in Season 1 of BRPG
-
-### Season 1: Level 50 Trophy
-
-<a href="https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/669312">
-    <img src="https://ipfs.neftyblocks.io/ipfs/QmW8Cg7evdfHBGGSg4NRvdwSc1duns82BtkiKoD5oGHxav" />
-</a>
-
-This sticker is awarded to those who reached level 50 in Season 1 of BRPG
+## Ranking Rewards
 
 ### Season 1 Top 10
 
