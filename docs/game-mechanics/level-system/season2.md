@@ -16,7 +16,7 @@ Season 2 was the second iteration of the Level System. Everyone who participated
     <img src="https://ipfs.neftyblocks.io/ipfs/QmdsigJaBgLhDBKFdtZtoYXFQ6GsZEzPBCEZxkjqHGD1aV" />
 </a>
 
-This sticker is awarded to those who reached the top 10 ranks in Season 1 of BRPG
+This sticker is awarded to those who reached the top 6-10 ranks in Season 1 of BRPG
 
 ### Season 1 Top 5
 
@@ -24,7 +24,7 @@ This sticker is awarded to those who reached the top 10 ranks in Season 1 of BRP
     <img src="https://ipfs.neftyblocks.io/ipfs/Qmc2YpUmBLuPq4YbWK7QRauWmf76qFUg34uHcsWSVSvRvn" />
 </a>
 
-This sticker is awarded to those who reached the top 5 ranks in Season 1 of BRPG
+This sticker is awarded to those who reached the top 2-5 ranks in Season 1 of BRPG
 
 ### Season 1 Top 1
 
