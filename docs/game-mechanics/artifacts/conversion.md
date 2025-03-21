@@ -1,6 +1,6 @@
 # Conversion
 
-To facilitate a smooth transition, we will be offering conversions from existing equipment to artifacts. The table below shows the mapping.
+To facilitate a smooth transition from the old equipment system to the new Artifact system, we will be offering conversions from existing equipment to artifacts. The table below shows the mapping.
 
 | Equip                   | Rarity   | Quantity | Artifact Rarity | Artifact Slot | Artifact Level |
 | ----------------------- | -------- | -------- | --------------- | ------------- | -------------- |
