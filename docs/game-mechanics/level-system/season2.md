@@ -10,29 +10,29 @@ Season 2 was the second iteration of the Level System. Everyone who participated
 
 ## Ranking Rewards
 
-### Season 1 Top 10
-
-<a href="https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/669314">
-    <img src="https://ipfs.neftyblocks.io/ipfs/QmdsigJaBgLhDBKFdtZtoYXFQ6GsZEzPBCEZxkjqHGD1aV" />
-</a>
-
-This sticker is awarded to those who reached the top 6-10 ranks in Season 1 of BRPG
-
-### Season 1 Top 5
-
-<a href="https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/669315">
-    <img src="https://ipfs.neftyblocks.io/ipfs/Qmc2YpUmBLuPq4YbWK7QRauWmf76qFUg34uHcsWSVSvRvn" />
-</a>
-
-This sticker is awarded to those who reached the top 2-5 ranks in Season 1 of BRPG
-
 ### Season 1 Top 1
 
-<a href="https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/669316">
+<a href="https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/Season-2-Top-1-Trophy_881742">
     <img src="https://ipfs.neftyblocks.io/ipfs/QmNuzveBNGsvRbtEt6ScSHUMEeteRrC1nM4Q9BvVfSAu5X" />
 </a>
 
-This sticker is awarded to the player who reached the top 1 rank in Season 1 of BRPG
+This sticker is awarded to the player who reached the top 1 rank in Season 2 of BRPG
+
+### Season 1 Top 5
+
+<a href="https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/Season-2-Top-5-Trophy_881743">
+    <img src="https://ipfs.neftyblocks.io/ipfs/Qmc2YpUmBLuPq4YbWK7QRauWmf76qFUg34uHcsWSVSvRvn" />
+</a>
+
+This sticker is awarded to those who reached the top 2-5 ranks in Season 2 of BRPG
+
+### Season 1 Top 10
+
+<a href="https://wax.atomichub.io/explorer/template/wax-mainnet/brpg/Season-2-Top-10-Trophy_881744">
+    <img src="https://ipfs.neftyblocks.io/ipfs/QmdsigJaBgLhDBKFdtZtoYXFQ6GsZEzPBCEZxkjqHGD1aV" />
+</a>
+
+This sticker is awarded to those who reached the top 6-10 ranks in Season 2 of BRPG
 
 These stickers will also be synced to discord giving you bragging rights for being awesome 🙂
 
