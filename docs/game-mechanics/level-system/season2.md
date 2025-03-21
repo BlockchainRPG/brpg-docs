@@ -2,6 +2,7 @@
 
 Season 2 was the second iteration of the Level System. Everyone who participated will receive rewards based on their level and ranking.
 
+**Start Date** Apr 2, 2023
 **End Date:** 03/21/2025
 
 ## Battle Pass Rewards
