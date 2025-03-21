@@ -2,6 +2,7 @@
 
 Season 1 was the first iteration of the Level System. Everyone who participated will receive rewards based on their level and ranking.
 
+**Start Date:** May 24, 2022
 **End Date:** 03/31/2023
 
 ## Rewards
