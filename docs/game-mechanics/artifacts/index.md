@@ -54,7 +54,10 @@ This is the slot that an artifact will fit in. Each slot will have specific prim
 
 ## Upgrading
 
-Artifacts can be upgraded using GOLD with a success rate of **2/(NEXT_LEVEL)**. Each successful upgrade will increase the Level of the Artifact by 1. The maximum level of an Artifact is **5 (subject to change)**.
+Artifacts can be upgraded using Essence and GOLD with a success rate of **(2 + Additional Essence)/(NEXT_LEVEL)**.
+Each successful upgrade will increase the Level of the Artifact by 1.
+
+The maximum level of an Artifact is **5 (subject to change)**.
 
 ### Cost
 
