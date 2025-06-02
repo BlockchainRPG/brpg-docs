@@ -86,9 +86,14 @@ const config = {
             position: "left",
           },
           {
-            to: "/docs/resources/packs/elara-pack",
-            label: "New Elara Pack Drop!",
+            href: "https://nfthive.io/collection/brpg?tab=drops",
+            label: "Drops",
             position: "left",
+          },
+          {
+            to: "/leaderboard",
+            label: "Leaderboard",
+            position: "right",
           },
           { to: "/blog", label: "Blog", position: "right" },
           {
