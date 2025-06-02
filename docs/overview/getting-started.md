@@ -18,7 +18,7 @@ Luckily, we have a guide on creating a WAX Cloud Wallet here:
 
 In efforts to reduce bots, support the dev team, and to provide continuous updates to the game, we have enabled a Character Card requirement. Each player must have a Character NFT staked and recruited in order to play the game.
 
-Players may purchase a Character NFT Pack from our [Official BlockchainRPG Shop](https://nfthive.io/drop/199) or from the secondary markets.
+Players may purchase a Character NFT Pack from our [Starter Pack Drop](https://nfthive.io/drop/199?referral=brpg) or from the secondary markets.
 
 ## The First Hunt
 

@@ -2,9 +2,9 @@
 
 Here you can find links to our social media, websites and more. Stay Safe and only use the resources below. Do not click on fake links
 
-Main Website: https://www.blockchainrpg.io/
+[Main Website](https://blockchainrpg.io/)
 
-Starter Pack Drop: https://nfthive.io/drop/nfthivedrops/199
+[Starter Pack Drop](https://nfthive.io/drop/199?referral=brpg)
 
 ## Social Media
 
