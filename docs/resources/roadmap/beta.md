@@ -23,9 +23,13 @@ After having a base game created, the team is looking to expand on those initial
 
 ## V5 Changes
 
-- [x] Artifact System
-- [x] New Hunting Ground: Plains
-- [x] Boss Fights
+- [x] [Artifact System](/blog/v5-0-0-release)
+- [x] [New Hunting Ground: Plains](/blog/v5-2-0-release)
+- [x] [Boss Fights](/blog/v5-7-0-release)
+- [x] [Artifact Fusion](/blog/v5-9-0-release)
+- [x] [Artifact Upgrading Revamp](/blog/v5-15-0-release)
+- [x] [Essence Chest](/blog/v5-18-0-release)
+- [ ] New Hunting Ground: Mountains
+- [ ] VIP Subscription
 - [ ] Multiple Characters on a Hunt
-- [ ] Interactive Hunts
-- [ ] Guilds
+- [ ] In Game Guilds
