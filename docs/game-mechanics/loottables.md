@@ -10,7 +10,7 @@ These tables are subject to change as we see fit for balancing and events.
 
 | Odds | Outcome             |
 | ---- | ------------------- |
-| 65%  | Essence Loot Table  |
+| 69%  | Essence Loot Table  |
 | 30%  | Artifact Loot Table |
 | 1%   | Character Pack      |
 
