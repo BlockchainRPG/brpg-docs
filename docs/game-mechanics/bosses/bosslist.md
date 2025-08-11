@@ -2,6 +2,34 @@
 
 Here are the different Bosses that you can summon and fight normally
 
+## Shelly
+
+From the murky swamplands slithers Shelly, a giant snail with a chip on her shell. She’s not angry at you—well, not just you—she’s furious her name isn’t Gary. Now she vents her jealousy with crushing shell slams and sticky slime, determined to prove she’s the true legend of the swamp.
+
+### Summoning Cost
+
+- 2000 gp
+- 5 CEE
+- 50 SHELL
+
+### Stats
+
+| Stat | Amount |
+| ---- | ------ |
+| HP   | 25,000 |
+| ATK  | 5      |
+| DEF  | 5      |
+
+### Drops
+
+| Odds | Outcome         |
+| ---- | --------------- |
+| 79%  | 3x GOLD         |
+| 10%  | (1-5) SLIME     |
+| 5%   | (1-5) SHELL     |
+| 5%   | CEE             |
+| 1%   | Common Artifact |
+
 ## Giant Slime
 
 The Giant Slime is a Common boss that can be summoned
