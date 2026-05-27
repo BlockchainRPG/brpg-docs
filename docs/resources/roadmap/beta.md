@@ -29,7 +29,12 @@ After having a base game created, the team is looking to expand on those initial
 - [x] [Artifact Fusion](/blog/v5-9-0-release)
 - [x] [Artifact Upgrading Revamp](/blog/v5-15-0-release)
 - [x] [Essence Chest](/blog/v5-18-0-release)
+- [x] [Multiple Characters on a Hunt](/blog/v5-22-0-release)
+
+## V6 Changes
+
+- [x] [Dashboard Launch](/blog/v6-0-0-release)
+- [x] [Party Boss Fights](/blog/v6-0-0-release)
 - [ ] New Hunting Ground: Mountains
 - [ ] VIP Subscription
-- [ ] Multiple Characters on a Hunt
 - [ ] In Game Guilds
