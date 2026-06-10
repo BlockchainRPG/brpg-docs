@@ -70,9 +70,19 @@ const config = {
         },
         items: [
           {
-            href: "https://play.blockchainrpg.io",
+            type: "dropdown",
             label: "Play",
             position: "left",
+            items: [
+              {
+                label: "Classic",
+                href: "https://play.blockchainrpg.io",
+              },
+              {
+                label: "Dash",
+                href: "https://dash.blockchainrpg.io",
+              },
+            ],
           },
           {
             type: "docSidebar",
