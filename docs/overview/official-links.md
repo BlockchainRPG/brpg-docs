@@ -14,7 +14,8 @@ We will **never** DM you first asking for your seed phrase, private keys, or wal
 ## Websites
 
 - **[Main Website](https://blockchainrpg.io/)** — Our official homepage and the front door to everything BlockchainRPG.
-- **[Play the Game](https://play.blockchainrpg.io)** — The official web app where you log in and play.
+- **[Play Classic](https://classic.blockchainrpg.io)** — The original web client where you log in and play.
+- **[Play Dash](https://dash.blockchainrpg.io)** — The new dashboard client for managing your characters and playing.
 - **[Official Shop](https://shop.blockchainrpg.io/)** — The official storefront for character packs and items.
 - **[Starter Pack Drop](https://nfthive.io/drop/199?referral=brpg)** — The recommended starting point for new players, hosted on NFTHive.
 

@@ -5,7 +5,7 @@ import Link from "@docusaurus/Link";
 import styles from "./styles.module.css";
 
 const PLAY_OPTIONS = [
-  { label: "Classic", href: "https://play.blockchainrpg.io" },
+  { label: "Classic", href: "https://classic.blockchainrpg.io" },
   { label: "Dash", href: "https://dash.blockchainrpg.io" },
 ];
 

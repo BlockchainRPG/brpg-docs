@@ -76,7 +76,7 @@ const config = {
             items: [
               {
                 label: "Classic",
-                href: "https://play.blockchainrpg.io",
+                href: "https://classic.blockchainrpg.io",
               },
               {
                 label: "Dash",
