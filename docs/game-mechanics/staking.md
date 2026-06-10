@@ -19,6 +19,8 @@ You will be prompted to sign the transaction. Once this has been completed, you 
 
 You are able to unstake your items at any time but there will be a 24 hour unstaking cooldown to avoid abuse. After the 24 hour cooldown, you will be able to claim your unstaked items in game.
 
+> **Characters are a special case:** a character must be at **full HP and off cooldown** before it can be unstaked. Finish any active hunt or boss cooldown and heal up to full first (see [Healing](/docs/game-mechanics/healing)).
+
 ## FAQ
 
 ### Are there any staking rewards?
