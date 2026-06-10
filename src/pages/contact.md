@@ -45,7 +45,4 @@ For partnerships, press, marketing, or other business matters, please email **su
 
 BlockchainRPG is developed and operated by **Pandora Tech LLC**.
 
-> **[PLACEHOLDER — fill in your business details]**
-> For the strongest trust signal (and to satisfy ad-network and legal requirements), add your registered business contact details here, for example: registered company name, mailing/registered address, and a general business email. If you operate as a registered LLC, listing the business address that appears on your registration is recommended.
-
 You can also learn more [about the team and our mission here](/about).

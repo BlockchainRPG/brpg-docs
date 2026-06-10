@@ -30,9 +30,6 @@ These principles guide how we build and run the game:
 
 BlockchainRPG is developed and operated by **Pandora Tech LLC**, an independent game studio.
 
-> **[PLACEHOLDER — fill in your studio details]**
-> Add a short paragraph here about Pandora Tech LLC: when the studio was founded, where it's based, the size of the team, and a sentence or two on the founders' background. A few authentic, specific sentences here do a lot to establish trust with both players and reviewers. For example: "Founded in 20XX and based in [City, Country], Pandora Tech LLC is a small independent team of developers, artists, and gamers passionate about..."
-
 ## A Track Record of Updates
 
 BlockchainRPG is a live game in active development, with a long history of regular releases and seasonal events. You can follow our progress in detail on the [Blog](/blog), where we publish patch notes and release breakdowns for every major version, and review where the project is heading on our [Roadmap](/docs/resources/roadmap/alpha). Community events — including recurring holiday events — have been part of the game since its early days.
