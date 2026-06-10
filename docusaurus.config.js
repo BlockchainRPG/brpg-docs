@@ -91,11 +91,21 @@ const config = {
             position: "left",
           },
           {
+            to: "/docs/faq",
+            label: "FAQ",
+            position: "right",
+          },
+          {
             to: "/leaderboard",
             label: "Leaderboard",
             position: "right",
           },
           { to: "/blog", label: "Blog", position: "right" },
+          {
+            to: "/about",
+            label: "About",
+            position: "right",
+          },
           {
             href: "https://github.com/BlockchainRPG/brpg-docs",
             label: "GitHub",
@@ -107,11 +117,36 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Links",
+            title: "Game",
             items: [
               {
-                label: "Documentation",
-                to: "/docs/disclaimer",
+                label: "Getting Started",
+                to: "/docs/overview/getting-started",
+              },
+              {
+                label: "Game Mechanics",
+                to: "/docs/category/game-mechanics",
+              },
+              {
+                label: "FAQ",
+                to: "/docs/faq",
+              },
+              {
+                label: "Glossary",
+                to: "/docs/glossary",
+              },
+            ],
+          },
+          {
+            title: "Company",
+            items: [
+              {
+                label: "About",
+                to: "/about",
+              },
+              {
+                label: "Contact",
+                to: "/contact",
               },
               {
                 label: "Terms and Conditions",
@@ -134,6 +169,10 @@ const config = {
                 label: "Twitter",
                 href: "https://twitter.com/blockchainrpg",
               },
+              {
+                label: "Reddit",
+                href: "https://www.reddit.com/r/blockchainrpg/",
+              },
             ],
           },
           {
@@ -144,13 +183,17 @@ const config = {
                 to: "/blog",
               },
               {
+                label: "Leaderboard",
+                to: "/leaderboard",
+              },
+              {
                 label: "GitHub",
                 href: "https://github.com/BlockchainRPG/brpg-docs",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BlockchainRPG`,
+        copyright: `Copyright © ${new Date().getFullYear()} BlockchainRPG. Built by Pandora Tech LLC.`,
       },
       prism: {
         theme: lightCodeTheme,

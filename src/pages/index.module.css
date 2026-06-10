@@ -35,3 +35,59 @@
   justify-content: center;
   color: orangered;
 }
+
+.contentSection {
+  padding: 3rem 0;
+}
+
+.contentSection h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.contentSection p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.altSection {
+  background-color: var(--ifm-color-emphasis-100);
+}
+
+.stepCard {
+  padding: 1rem 1.5rem;
+}
+
+.stepCard h3 {
+  margin-bottom: 0.75rem;
+}
+
+.exploreCard {
+  display: block;
+  height: 100%;
+  padding: 1.5rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: var(--ifm-card-border-radius, 8px);
+  background-color: var(--ifm-background-surface-color);
+  color: inherit;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.exploreCard:hover {
+  text-decoration: none;
+  transform: translateY(-3px);
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+}
+
+.exploreCard h3 {
+  margin-bottom: 0.5rem;
+}
+
+.exploreCard p {
+  margin-bottom: 0;
+  color: var(--ifm-color-emphasis-700);
+}

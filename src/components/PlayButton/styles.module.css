@@ -1,0 +1,8 @@
+.caret {
+  display: inline-block;
+  margin-left: 0.4rem;
+  border-style: solid;
+  border-width: 0.4em 0.4em 0;
+  border-color: currentColor transparent transparent;
+  vertical-align: middle;
+}
