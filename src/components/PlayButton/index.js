@@ -12,6 +12,7 @@ const PLAY_OPTIONS = [
 export default function PlayButton() {
   const [open, setOpen] = useState(false);
   const ref = useRef(null);
+  const buttonRef = useRef(null);
 
   useEffect(() => {
     if (!open) return undefined;
@@ -23,6 +24,7 @@ export default function PlayButton() {
     function handleKeyDown(event) {
       if (event.key === "Escape") {
         setOpen(false);
+        buttonRef.current?.focus();
       }
     }
     document.addEventListener("mousedown", handleClickOutside);
@@ -36,6 +38,7 @@ export default function PlayButton() {
   return (
     <div className={clsx("dropdown", { "dropdown--show": open })} ref={ref}>
       <button
+        ref={buttonRef}
         type="button"
         className="button button--secondary button--lg"
         aria-haspopup="true"
@@ -45,12 +48,13 @@ export default function PlayButton() {
         Play Now
         <span className={styles.caret} aria-hidden="true" />
       </button>
-      <ul className="dropdown__menu">
+      <ul className="dropdown__menu" role="menu">
         {PLAY_OPTIONS.map((option) => (
-          <li key={option.label}>
+          <li key={option.label} role="none">
             <Link
               className="dropdown__link"
               to={option.href}
+              role="menuitem"
               onClick={() => setOpen(false)}
             >
               {option.label}
