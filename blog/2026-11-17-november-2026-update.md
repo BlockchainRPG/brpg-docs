@@ -26,7 +26,7 @@ New to Arena? Read the **[Arena player guide](/docs/game-mechanics/arena)** for 
 Enter the Arena with one character and face off in a match with three other players. You'll be placed on a team of two, and the battle plays out automatically based on your fighters' stats.
 
 - **Choose your fighter.** Attack, defense, and current HP are recorded when your character joins the queue, so prepare before entering.
-- **Find a match.** The queue prioritizes players who have waited the longest. This mode does **not** match by character level or strength.
+- **Find a match.** Four different players are needed to start a match. The queue prioritizes players who have waited the longest; it does **not** match by character level or strength.
 - **Watch the battle.** See the teams, follow each duel, and view the final result.
 - **Track your progress.** Review match history, wins, losses, win rate, and GP earned or lost.
 
@@ -46,7 +46,7 @@ Each Arena entry costs **1,000 staked GP**. When four fighters are matched, the 
 | Lose | **No payout** (you lose your 1,000 GP entry) |
 | Cancel before matching | **Full 1,000 GP refund** |
 
-**400 GP** (10% of the match pot) is burned. Once your entry starts matching, it can no longer be canceled. Transactions and payouts may take a little time to finish confirming.
+**400 GP** (10% of the match pot) is burned. Waiting entries don't expire automatically. Once your entry starts matching, it can no longer be canceled. Transactions and payouts may take a little time to finish confirming.
 
 ### Keep your characters battle-ready
 
