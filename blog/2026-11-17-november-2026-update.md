@@ -4,7 +4,6 @@ title: "November 2026 Update: Enter the Arena (V6.1.0)"
 authors: tomny
 tags: [patch notes]
 image: ./img/patch-notes.png
-draft: true
 ---
 
 ![BlockchainRPG patch notes](./img/patch-notes.png)
