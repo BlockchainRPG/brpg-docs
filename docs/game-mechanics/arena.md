@@ -18,7 +18,7 @@ description: Learn how 2v2 Arena matches work in BlockchainRPG, including entry 
 4. Wait for a 2v2 match. Your character joins a team with another player and fights two opponents.
 5. After the fight, check the result and your character's health, cooldown, and GP balance.
 
-Each player contributes **one character** to a match. The queue prioritizes entries that have waited longest; it does **not** currently match players based on character level or strength. Your own characters will not be matched against one another.
+A match starts only when **four different players** have eligible entries waiting. Each player contributes **one character** to that match. The queue prioritizes entries that have waited longest; it does **not** currently match players based on character level or strength. Your own characters will not be matched against one another.
 
 ### Enter with multiple characters
 
@@ -37,7 +37,7 @@ Every match has four entries, each costing **1,000 staked GP**.
 The four entries make a **4,000 GP pot**. Of that, **400 GP (10%) is burned**, and the remaining **3,600 GP** is split between the two winning players.
 
 :::note
-You can cancel only **before your entry begins matching**. A fight that is already being matched cannot be canceled. Refunds and payouts may require time to confirm. You can cancel several eligible waiting entries together from the Arena page.
+Waiting entries **do not automatically expire**. You can cancel only **before your entry begins matching**. A fight that is already being matched cannot be canceled. Refunds and payouts may require time to confirm. You can cancel several eligible waiting entries together from the Arena page.
 :::
 
 ## What happens to my character?
@@ -68,6 +68,10 @@ Complete **one Arena fight**, win or lose, to earn **one Rabbit Stew** from the 
 Daily quests reset at **midnight UTC**. Your fight counts for the day its **results are confirmed**, which may differ from the day you joined the queue.
 
 ## Frequently asked questions
+
+### Why am I still waiting for a match?
+
+Arena needs **four different players** to have eligible entries in the queue. Several characters from the same wallet do not fill multiple places in one match. Your waiting entry does not expire on its own; you can cancel it for a full refund before matching begins.
 
 ### Can I choose my teammate?
 
