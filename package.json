@@ -1,6 +1,6 @@
 {
   "name": "brpg-docs",
-  "version": "1.5.4",
+  "version": "1.5.3",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
