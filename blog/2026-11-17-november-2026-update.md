@@ -19,6 +19,8 @@ It's time to put your best fighter to the test! Since **V6.0.0**, which introduc
 
 ## ⚔️ Arena — Dashboard
 
+New to Arena? Read the **[Arena player guide](/docs/game-mechanics/arena)** for matchmaking, entry fees, refunds, rewards, and cooldowns.
+
 **New: 2v2 Skirmish**
 
 Enter the Arena with one character and face off in a match with three other players. You'll be placed on a team of two, and the battle plays out automatically based on your fighters' stats.
